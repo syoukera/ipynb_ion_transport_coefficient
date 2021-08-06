@@ -1,0 +1,262 @@
+polar C H O N Ip dH(A+) dH(A) species comment1 comment2 
+0.281 0 1 0 0 13.60 1536.244 217.998  H BLYP,cc-pVTZ
+0.455 0 2 0 0 15.43 1494.677 0.  H2 BLYP,cc-pVDZ
+0.678 0 0 1 0 13.62 1568.787 249.175  O B3LYP,aug-ccpVDZ,_oxygen_atom
+0.743 0 1 1 0 13.02 1299.213 37.3  OH  BcT
+0.743 0 1 1 0 0.00 0. 0.  OH* same_value_as_OH
+1.053 0 2 1 0 12.62 981.806 -241.826  H2O 
+1.131 0 0 2 0 12.07 1171.828 0.  O2  BcT
+1.489 0 1 2 0 11.35 1113.774 12.296  HO2  BcT
+1.773 0 2 2 0 10.58 895.122 -135.88  H2O2  BcT
+1.081 0 0 0 1 14.53 1872.924 470.818  N B3LYP_aug-cc-pVDZ,_nitrogen_atom
+1.760 0 0 0 2 15.58 1509.509 0.  N2 1.435_BcT;_1.760_Arm1.3;_1.740_Prager
+1.285 0 0 1 1 9.26 990.807 91.137  NO BcT,_nitric_oxide
+2.378 0 0 1 2 12.89 1329.146 81.6  N2O BcT,_nitrous_oxide
+2.210 0 0 2 1 9.59 964.409 34.193  NO2 BcT,_nitrogen_dioxide
+1.286 1 0 0 0 11.26 1809.444 716.67  C B3LYP,cc-pV(T+d)Z
+1.745 1 1 0 0 10.64 1630.571 592.5  CH ground,2\Pi_{1/2}_C*V;
+1.654 1 2 0 0 10.40 1399.825 391.2  CH2 ground,^3B_1_C2V
+2.009 1 2 0 0 0.00 1399.825 428.8  CH2(S) ^1A_1_C2V
+1.897 1 3 0 0 9.84 1101.792 146.7  CH3 methyl_radical
+2.600 1 4 0 0 12.61 1150.0 -74.6  CH4 2.262_BcT;_2.60_Arm1.3;_2.448_Prager
+1.390 1 1 0 0 10.64 1630.571 667.919  CH* 4\Sigma-_C*V;_system_error,_-1.474
+1.950 1 0 1 0 14.01 1238.337 -110.53  CO 1.685_BcT;_Arm1.3
+2.138 1 1 1 0 8.12 833.940 42.3  HCO Formyl_radical
+2.292 1 2 1 0 10.89 948.386 -109.164  CH2O Formaldehyde
+2.524 1 2 1 0 0.00 0. 0.  HCOH Hydroxycarbene
+2.551 1 3 1 0 7.56 716.400 -17.0  CH2OH hydroxymethyl_radical
+2.669 1 3 1 0 10.72 1061.172 21.0  CH3O methoxy_radical
+2.786 1 4 1 0 10.84 852.493 -200.94  CH3OH 
+2.650 1 0 2 0 13.78 943.137 -393.51  CO2 2.139_BcT;_Arm1.3
+2.787 1 1 2 0 8.20 604.166 -181.32  OCHO Hydrocarboxyl
+2.859 1 2 2 0 11.33 0. 0.  HOCHO formic_acid
+2.800 1 2 2 0 0.00 0. 0.  CH2O2 dioxirane
+3.324 1 2 3 0 0.00 0. 0.  HO2CHO Carbonic_acid,_H2CO3
+3.511 1 3 2 0 0.00 0. 0.  HOCH2O CH2OOH
+3.334 1 3 2 0 0.00 0. 0.  CH3O2 methylperoxy_radical
+3.647 1 4 2 0 0.00 0. 0.  CH3O2H methyl_peroxide
+3.357 1 4 2 0 0.00 0. 0.  CH2(OH)2 methanediol
+4.159 1 4 3 0 0.00 0. 0.  HOCH2O2H B3LYP,TZVP;_hydroxy_methyl_peroxide
+2.999 2 0 0 0 11.40 1980.05 826.799  C2 Semi-empirical,PM6,_carbon_diatomic
+4.120 2 0 0 0 0.00 1980.05 842.402  C2* BcT,_ground_2
+2.974 2 1 0 0 11.61 1697.10 568.056  C2H ethynyl_radical
+2.867 2 2 0 0 11.40 1333.918 228.20  C2H2 acetylene
+3.135 2 2 0 0 0.00 0. 0.  CCH2 vinylidene,_ground
+3.395 2 3 0 0 8.25 1122.34 296.580  C2H3 vinyl
+3.584 2 4 0 0 10.51 1074.461 52.500  C2H4 ethylene
+3.564 2 4 0 0 0.00 1184.77 366.85  CH3CH methylmethylene
+3.746 2 5 0 0 8.12 909.095 119.7  C2H5 ethyl_radical
+4.036 2 6 0 0 11.52 1036.13 -83.852  C2H6 ethane
+3.556 2 0 1 0 0.00 1436.61 385.68  CCO B3LYP-TZVP
+3.631 2 1 1 0 9.50 1147.93 178.3  HCCO ketenyl
+3.987 2 3 1 0 10.85 0. 0.  CH2CHO vinyloxy_radical
+3.970 2 3 1 0 7.00 665.789 -10.3  CH3CO Acetyl
+3.631 2 2 1 0 9.62 885.29 -48.579  CH2CO ketene
+3.596 2 2 1 0 0.00 1067. 93.3  HCCOH ethynol
+4.130 2 4 1 0 10.23 828.315 -166.19  CH3CHO acetaldehyde
+4.218 2 4 1 0 9.33 0. 0.  C2H3OH CH2CHOH,_ethenol
+3.873 2 4 1 0 10.56 828.315 -124.683  C2H4O ethylene_oxide
+4.480 2 5 1 0 9.11 981.63 -11.47  CH3CH2O CH3CH2O,_ethoxy_radical
+4.327 2 5 1 0 0.00 0. 0.  PC2H4OH CH2CH2OH,_2-hydroxy_ethyl_radical
+4.471 2 5 1 0 0.00 0. 0.  SC2H4OH CH3OCH2,_methoxymethyl_radical
+4.591 2 6 1 0 10.48 784.495 -234.95  C2H5OH Ethanol
+4.658 2 6 1 0 10.03 0. 0.  CH3OCH3 BcT,_dimenthyl_ether
+4.184 2 2 2 0 10.20 0. 0.  C2H2O2 ethanedial
+4.587 2 4 2 0 10.84 0. 0.  CH3OCHO BcT,_methyl_formate
+4.566 2 4 2 0 10.65 888.25 -432.253  C2H3OOH BcT,_CH3COOH,_acetic_acid
+4.644 2 4 2 0 0.00 0. 0.  CHOCH2OH hydroxy_acetaldehyde,_BcT
+4.401 2 4 2 0 0.00 0. 0.  C2H4O2 1,3-dioxetane
+5.137 2 5 2 0 0.00 0. 0.  C2H5O2 BcT,_ethylperoxy_radical
+5.090 2 6 2 0 10.16 0. 0.  C2H6O2 1,2-ethanediol
+5.629 2 6 2 0 9.10 0. 0.  CH3OOCH3 dimethylperoxide
+4.618 2 2 3 0 0.00 0. 0.  CHOCOOH  oxo acetic_acid
+5.174 2 3 3 0 0.00 0. 0.  CH3CO3 CH3C(O)OO,_acetyl_peroxy_radical
+5.109 2 4 3 0 0.00 0. 0.  HOCH2COOH BcT,_hydroxyacetic_acid
+4.441 3 0 0 0 13.00 1988.93 822.025  C3 BcT,_carbon_trimer
+5.845 3 0 2 0 10.61 935.95 -95.59  C3O2 carbon_suboxide
+4.943 3 3 0 0 8.67 1201.645 348.427  C3H3 propargyl_radical
+4.829 3 4 0 0 10.36 0. 0.  C3H4-P CH3CCH,_propyne
+5.368 3 4 0 0 9.69 0. 0.  C3H4-A CH2CCH2,_allene
+4.729 3 4 0 0 8.16 0. 0.  CC3H4 cyclopropene
+5.499 3 5 0 0 8.18 0. 0.  C3H5-A C3H5,_allyl
+5.323 3 5 0 0 0.00 0. 0.  C3H5-S CH3CHCH,_1-propenyl
+5.499 3 5 0 0 0.00 0. 0.  C3H5-T  the same_as_C3H5-A
+5.494 3 6 0 0 9.73 0. 0.  C3H6 CH2CHCH3,_propene
+5.642 3 7 0 0 7.37 0. 0.  IC3H7 Isopropyl_raidcal
+5.619 3 7 0 0 8.09 0. 0.  NC3H7  npropyl raidcal
+5.819 3 8 0 0 10.94 0. 0.  C3H8 Propane
+5.769 3 4 1 0 0.00 0. 0.  C2H3CHO BcT,_CH2CHCHO,_acrolein
+5.496 3 4 1 0 8.95 0. 0.  CH3CHCO B3LYP,TZVP;_methylketene
+6.272 3 4 1 0 10.51 0. 0.  C3H4O  2- propyn-1-ol,_B3LYP,_aug-cc-pVTZ
+5.842 3 6 1 0 9.70 0. 0.  CH3COCH3 BcT,_acetone
+5.832 3 6 1 0 9.96 0. 0.  CH3CH2CHO propanal
+5.921 3 6 1 0 9.67 0. 0.  C3H6O1-2 B2PLYP,_cc-pVTZ,_2-propylene-1-ol
+5.599 3 6 1 0 0.00 0. 0.  C3H6O1-3 BcT,_1,3-propylene_oxide,_oxetane
+5.702 3 6 1 0 10.22 0. 0.  C3H6O propylene_oxide
+6.393 3 8 1 0 10.17 0. 0.  CH3CHOHCH3 isopropyl_alcohol
+6.353 3 8 1 0 10.22 0. 0.  C3H7OH  1- propanol
+6.507 3 8 1 0 9.72 0. 0.  CH3OC2H5 ethane,methoxy-
+6.304 3 6 2 0 0.00 0. 0.  AC3H5OOH Propanoic_acid
+6.915 3 8 2 0 0.00 0. 0.  NC3H7O2H Propylene_glycol,_HOCH2CH(OH)CH3
+6.854 3 8 2 0 0.00 0. 0.  IC3H7O2H 1,3-Propanediol,_HO(CH2)3OH
+5.638 3 2 2 0 0.00 0. 0.  C3H2O2 propiolic_acid
+5.647 3 4 2 0 9.70 0. 0.  C3H4O2 beta-propiolactone
+6.950 3 4 2 0 0.00 0. 0.  HOCHCCHOH allenediol
+6.347 3 6 2 0 10.25 0. 0.  CH3COOCH3 methyl_acetate
+6.549 3 6 2 0 10.61 0. 0.  HCOOC2H5 ethyl_formate
+6.126 3 6 2 0 9.90 0. 0.  C3H6O2 1,3-dioxolane,_B3LYP,TZVP
+6.171 3 4 3 0 10.40 0. 0.  C2H4CO3 ethylene_carbonate
+6.648 3 6 3 0 10.30 0. 0.  C3H6O3 1,3,5-trioxane
+7.044 4 0 0 0 12.54 0. 0.  C4 carbon_tetramer
+6.517 4 2 0 0 10.17 1447.72 458.299  C4H2 BcT,_diacetylene
+8.008 4 4 0 0 9.15 0. 0.  C4H4 BcT,_H2CCCCH2
+6.790 4 4 0 0 9.58 0. 0.  C2H3CCH BcT,_1-Buten-3-yne
+7.420 4 6 0 0 9.03 0. 0.  C4H612 BcT,_1,2-Butadiene
+6.907 4 6 0 0 9.58 0. 0.  C4H6-2  2- Butyne
+6.686 4 6 0 0 10.18 0. 0.  CHCCH2CH3  1- Butyne
+7.624 4 6 0 0 9.07 0. 0.  CH2CHCHCH2 1,3-Butadiene
+7.575 4 9 0 0 6.70 0. 0.  C(CH3)3 tert-butyl_radical
+7.617 4 7 0 0 0.00 0. 0.  C4H71-1 BcT,_CH3CHCHCH2,_methylallyl_radical
+7.617 4 7 0 0 0.00 0. 0.  C4H71-2  the same_as_C4H71-1
+7.617 4 7 0 0 0.00 0. 0.  C4H71-3 
+7.617 4 7 0 0 0.00 0. 0.  C4H71-4 
+7.617 4 7 0 0 0.00 0. 0.  C4H72-2 
+7.351 4 8 0 0 9.55 0. 0.  C4H8-1 BcT,_1-Butene
+7.367 4 8 0 0 9.10 0. 0.  C4H8-2 BcT,_2-Butene,(Z)-;_7.501,0.00_(E)-
+7.347 4 8 0 0 9.22 0. 0.  IC4H8 CH2C(CH3)CH3,_1-Propene,2-methyl-
+7.485 4 9 0 0 7.25 0. 0.  IC4H9 CH3CHCH2CH3,_2-Butyl
+7.369 4 9 0 0 7.93 0. 0.  TC4H9 CH2CH(CH3)2,_Isobutyl
+6.437 4 4 1 0 8.88 0. 0.  C4H4O BcT,_Furan
+7.907 4 6 1 0 9.75 0. 0.  C2H5CHCO  2- Butenal,_CHOCHCHCH3
+7.762 4 6 1 0 9.75 0. 0.  SC3H5CHO cis-2-Butenal
+7.841 4 6 1 0 8.68 0. 0.  CH2CHOCHCH2 vinyl_ether
+6.951 4 6 1 0 9.16 0. 0.  C4H6O furan,2,3-dihydro-
+7.625 4 8 1 0 9.71 0. 0.  C4H8O1-2 CHOCH(CH3)CH3,_Propanal,_2-methyl-
+7.567 4 8 1 0 9.52 0. 0.  C4H8O1-3 B3LYPultrafine,_ccpVTZ
+8.215 4 8 1 0 8.98 0. 0.  C4H8O1-4 C2H3OC2H5,_ethene,_ethoxy-
+7.343 4 8 1 0 8.64 0. 0.  C4H8O2-3 CH2C(CH3)OCH3,_1-Propene,_2-methoxy-
+7.389 4 4 2 0 9.60 0. 0.  C4H4O2  2- oxetanone,4-methylene-
+8.080 4 6 2 0 0.00 0. 0.  C4H6O2  2- propenoic_acid,methyl_ester
+7.619 4 8 1 0 9.82 0. 0.  CHOCH2CH2CH3 Butanal
+8.003 4 8 2 0 9.19 0. 0.  IC4H7OOH 1,4-Dioxane;_ethyl_acetate
+8.003 4 8 2 0 10.01 0. 0.  TC3H6OHCHO C4H8O2,_the_same_as_above
+8.711 4 10 2 0 9.65 0. 0.  IC4H9O2H 1,3-Butanediol
+8.477 4 10 2 0 9.30 0. 0.  TC4H9O2H 1,4-Butanediol
+7.635 5 5 0 0 0.00 0. 0.  C5H5 cyclopentadienyl_radical,B3LYP,TZVP
+8.607 5 6 0 0 9.25 0. 0.  C5H6  1- buten-3-yne,2-methyl-
+9.458 5 7 0 0 7.25 0. 0.  C5H7 1,3-pentadienyl,_SVWN,6-31+G**
+9.288 5 8 0 0 8.86 0. 0.  C5H8 1,3-butadiene,2-methyl-
+8.733 5 6 1 0 8.38 0. 0.  C5H6O  2- methylfuran,_TPSSh,6-31+G*
+9.172 5 4 2 0 9.22 0. 0.  C5H4O2 furfural
+9.561 6 2 0 0 9.50 0. 0.  C6H2 M06-2X,_hexatriyne
+8.945 6 4 0 0 0.00 0. 0.  C6H4 Benzyne
+9.083 6 5 0 0 8.32 1143. 337.3  C6H5 phenyl
+9.304 6 6 0 0 9.24 982.3 82.88  C6H6 benzene
+10.142 6 5 1 0 8.56 0. 0.  C6H5O phenoxy_radical
+10.454 6 4 2 0 0.00 0. 0.  C6H4O2 parabenzoquinone
+1.401 0 2 0 1 10.78 1269.973 186.2  NH2 BcT,_amino_radical
+1.634 0 3 0 1 10.07 943.294 -45.567  NH3 BcT,_ammonia
+1.406 0 0 3 1 12.57 1292.57 74.628  NO3 semi-empirical,PM6,nitrogen_trioxide
+1.753 0 1 1 1 10.10 1163.44 214.51  HNO BcT,_nitrosyl_hydride
+2.260 0 3 1 1 10.00 854.33 -25.23  NH2OH BcT,_hydroxylamine
+2.372 0 3 1 1 0.00 0. 0.  NH3O BcT,_ammonia_oxide
+2.488 0 1 2 1 11.30 0. 0.  HNO2 BcT,_nitrous_acid
+3.196 0 1 3 1 11.95 0. 0.  HNO3 BcT,_nitric_acid
+4.189 0 1 4 1 0.00 0. 0.  HOONO2 BcT,_peroxy_nitric_acid
+2.026 0 1 0 2 7.80 0. 0.  NNH BcT,_dinitrogen_monohydride
+2.303 0 2 0 2 9.65 1156.7 222.465  N2H2 BcT,_trans-diazine
+2.793 0 4 0 2 8.10 879.85 95.18  N2H4 BcT,_hydrazine
+3.922 0 0 2 2 0.00 0. 0.  ONNO BcT,_NO_dimer
+4.627 0 0 3 2 0.00 0. 0.  N2O3 BcT,_dinitrogen_trioxide
+4.412 0 0 3 2 0.00 0. 0.  ONONO BcT,_nitrosyl_nitrite
+5.316 0 0 4 2 10.80 0. 0.  N2O4 BcT,_dinitrogen_tetroxide
+2.778 0 0 0 3 11.06 1523.1 449.924  N3 BcT,_azide_radical
+3.164 0 1 0 3 10.72 1334.177 291.826  HN3 BcT,_hydrogen_azide
+2.803 1 0 0 1 13.60 1788.9 438.68  CN BcT/se3
+2.255 1 1 0 1 12.50 1359.05 191.908  HNC BcT,_hydrogen_isocyanide
+2.126 1 1 0 1 13.60 1448.748 129.799  HCN BcT,_hydrogen_cyanide
+2.595 1 2 0 1 9.40 1171.87 238.569  H2CN  BcT
+2.933 1 2 0 1 0.00 0. 0.  CNH2  BcT
+2.832 1 2 0 1 0.00 0. 0.  HCNH  BcT
+2.943 1 3 0 1 9.97 1039.34 88.701  CH2NH BcT,_methanimine
+3.390 1 5 0 1 8.90 859.387 -19.380  CH3NH2 BcT,_methyl_amine
+2.679 1 0 1 1 11.76 1517.94 390.02  NCO BcT,_isocyanato_radical
+2.863 1 1 1 1 11.60 1006.582 -118.60  HNCO BcT,_isocyanic_acid
+2.826 1 1 1 1 0.00 0. 0.  HOCN BcT,_cyanic_acid
+3.226 1 1 1 1 10.83 1218.89 167.603  HCNO BcT,_fulminic_acid
+2.984 1 3 1 1 10.16 0. 0.  CHONH2 TPSSh,_6-31G*,_formamide
+3.554 1 3 1 1 0.00 0. 0.  HOCHNH BcT,_hydroxymethylimine
+4.193 1 3 2 1 11.08 0. 0.  CH3NO2 methane,nitro-
+4.418 1 3 2 1 10.44 0. 0.  CH3ONO methyl_nitrite
+5.043 1 3 3 1 11.53 0. 0.  CH3NO3 methyl_nitrate
+3.170 1 0 0 2 0.00 0. 0.  NCN  BcT
+2.801 1 0 0 2 0.00 0. 0.  CN2 BcT,_3H-diazirin-3-ylidene
+3.721 1 2 0 2 0.00 0. 0.  HNCNH BcT,_diiminomethane
+3.966 1 2 0 2 10.30 0. 0.  CH2NN BcT,_diazomethane
+3.390 1 2 0 2 10.40 0. 0.  NH2CN BcT,_cynamamide
+4.638 1 6 0 2 0.00 0. 0.  NH2CH2NH2 diaminomethane
+4.573 1 4 1 2 9.70 0. 0.  NH2CONH2 urea
+5.365 1 5 0 3 9.10 0. 0.  CH5N3 guanidine
+5.096 1 2 0 4 10.95 0. 0.  CH2N4  1Htetrazole
+6.413 1 3 0 5 0.00 0. 0.  CH3N5  5- Aminotetrazole
+3.963 2 3 0 1 12.20 0. 0.  CH3CN BcT,_acetonitrile
+4.194 2 3 0 1 11.53 0. 0.  CH3NC BcT,_methyl_isocyanide
+4.430 2 4 0 1 0.00 0. 0.  CH3CHN BcT,_methylmethaniminyl_radical
+4.494 2 5 0 1 9.20 0. 0.  C2H5N aziridine
+4.959 2 5 0 1 0.00 0. 0.  CH2CHNH2 aminoethene
+4.946 2 5 0 1 9.30 0. 0.  CH2NCH3  Nmethylmethanimine
+4.848 2 5 0 1 8.10 0. 0.  CH3CHNH ethanimine
+5.240 2 7 0 1 8.90 0. 0.  CH3CH2NH2 Ethylamine
+5.269 2 7 0 1 8.24 0. 0.  CH3NHCH3 Dimethylamine
+5.204 2 5 1 1 9.69 0. 0.  CH3CONH2 acetamide
+5.694 2 5 1 1 10.00 0. 0.  CH3CHNOH acetaldoxime
+5.698 2 5 2 1 8.90 0. 0.  H2NCH2COOH glycine
+6.930 2 5 3 1 11.22 0. 0.  C2H5NO3 nitric_acid,_ethyl_ester
+5.725 2 3 3 1 10.51 0. 0.  C2H3NO3 oxamic_acid
+4.393 2 0 0 2 13.37 1606.684 309.28  C2N2 BcT,_cyanogen
+6.386 2 8 0 2 8.60 0. 0.  C2H8N2 ethylenediamine
+6.450 2 8 0 2 0.00 0. 0.  CH3NHNHCH3 dimethyl_hydrazine
+6.382 2 6 1 2 9.66 0. 0.  C2H6N2O urea,methyl-
+6.363 2 4 2 2 9.41 0. 0.  C2H4N2O2 oxalamide
+7.374 2 6 2 2 9.53 0. 0.  C2H6N2O2 dimethylnitroamine
+5.701 2 3 0 3 9.80 0. 0.  C2H3N3 1H-1,2,4-Triazole
+6.591 2 2 0 4 9.14 0. 0.  C2H2N4 sym-tetrazine
+6.957 2 4 0 4 10.30 0. 0.  C2H4N4  1Htetrazole, 5-methyl-
+5.334 3 1 0 1 11.62 0. 0.  HCCCN BcT,_cyanoacetylene
+5.695 3 3 0 1 10.91 0. 0.  C3H3N acrylonitrile
+5.664 3 5 0 1 11.85 0. 0.  C2H5CN ethyl_cyanide,_B3LYP,TZVP
+6.346 3 7 0 1 8.80 0. 0.  C3H7N cyclopropylamine
+5.820 3 3 1 1 9.96 0. 0.  C3H3NO isoxazole
+7.807 3 5 1 1 9.50 0. 0.  CH2CHCONH2 acrylamide,_B3LYP,aug-cc-pVDZ
+6.330 3 5 1 1 10.75 0. 0.  CH3OCH2CN methoxyacetonitrile
+7.207 3 7 1 1 9.13 0. 0.  C3H7NO dimethylformamide
+6.032 3 2 0 2 12.80 0. 0.  C3H2N2 imidazolyl_radical
+6.448 3 4 0 2 9.38 0. 0.  C3H4N2  1Hpyrazole
+7.029 3 6 0 2 0.00 0. 0.  C3H6N2  3- aminopropionitrile
+7.018 3 3 0 3 9.80 0. 0.  C3H3N3 1,3,5-Triazine
+6.801 4 4 0 1 0.00 0. 0.  C4H4N pyrrolide_radical
+7.141 4 5 0 1 8.21 1083.0 306.085  C4H5N pyrrole
+7.508 4 7 0 1 11.30 0. 0.  CH3CH(CH3)CN propanenitrile,2-methyl-
+7.566 4 7 0 1 11.20 0. 0.  CH3CH2CH2CN butaneitrile
+7.776 4 5 1 1 9.61 0. 0.  C4H5NO isoxazole,5-methyl-
+8.720 4 0 0 2 11.81 0. 0.  C4N2 BcT,_2-butynedinitrile
+8.409 4 2 0 2 11.16 0. 0.  C4H2N2 fumaronitrile
+7.591 4 4 0 2 12.10 0. 0.  C4H4N2 succinonitrile
+8.412 4 6 0 2 8.50 0. 0.  C4H6N2  1Himidazole, 2-methyl-
+9.412 4 4 2 2 0.00 0. 0.  C4H4N2O2 uracil,_B3LYP,TZVP
+8.601 5 5 0 1 9.26 0. 0.  C5H5N pyridine
+10.597 5 0 0 4 0.00 0. 0.  C(CN)4 BLYP,aug-cc-pVDZ,_tetracyanomethane
+9.458 5 5 1 1 9.50 0. 0.  C5H5NO  3- pyridinol,_B3LYP,TZVP
+13.156 6 0 0 4 11.77 0. 0.  C6N4 tetracyanoethylene
+0.897 0 3 1 0 24.7 0. 0.  H3O+
+1.356 1 1 1 0 26.7 0. 0.  HCO+
+1.281 1 3 0 0 25.6 0. 0.  CH3+
+1.937 1 3 1 0 21.7 0. 0.  CH3O+
+2.462 1 5 1 0 18.3 0. 0.  CH5O+
+3.141 2 3 1 0 26.1 0. 0.  C2H3O+
+1.424 0 0 2 0 0.45 0. 0.  O2-
+1.258 0 1 1 0 1.83 0. 0.  OH-
+2.677 1 0 3 0 2.69 0. 0.  CO3-
+3.345 1 1 2 0 3.50 0. 0.  CHO2-
+3.712 1 1 3 0 3.69 0. 0.  CHO3-
+1.424 0 0 1 0 1.46 0. 0.  O
